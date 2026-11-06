@@ -1,4 +1,5 @@
 # F2N2C 下一代电商平台商业模式
+<img width="1024" height="1024" alt="合作一起1" src="https://github.com/user-attachments/assets/664c6245-aacb-4075-8d58-033af6e062da" />
 
 欢迎来到 **F2N2C**（Factory-to-Network-to-Consumer）下一代电商平台商业模式的官方数字资产导航站。本概念由 F2N2C 创始人与谷歌 AI 模型 Gemini 深度碰撞、共同推演完成，致力于推动“一次人类商业社会操作系统的更新”。
 
